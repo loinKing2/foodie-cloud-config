@@ -10,4 +10,4 @@ management:
   security:
     enabled: false
 server:
-  port: 20023
+  port: 10002
