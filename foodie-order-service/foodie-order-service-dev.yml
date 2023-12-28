@@ -5,5 +5,8 @@ mariadb:
   username: root
   driver-class-name: com.mysql.cj.jdbc.Driver
 
+server:
+  port: 10003
+
 
 #actuator
