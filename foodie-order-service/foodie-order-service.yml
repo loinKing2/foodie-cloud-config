@@ -1,0 +1,13 @@
+#服务端全部暴露出来
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
+  endpoint:
+    health:
+      show-details: always
+  security:
+    enabled: false
+server:
+  port: 10003
