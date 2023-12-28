@@ -1,7 +1,7 @@
 #数据库连接串 & 密码
 mariadb:
   url: jdbc:mysql://localhost:3306/foodie-dev?useUnicode=true&useSSL=false&characterEncoding=utf8&serverTimezone=GMT%2B8
-  password: '{cipher}1dbecd9095af6d5252571874726face73d51553f36b255c693b7389845c32b58'
+  password: '{cipher}cc267af9e4a1ebdf8e66a1d96775d6f6914859fd5591c4e99a1613fb0610f13e'
   username: root
   driver-class-name: com.mysql.cj.jdbc.Driver
 
